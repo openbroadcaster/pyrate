@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accessories
+title: PyrateRadio
 permalink: /PyrateRadio
 ---
 
