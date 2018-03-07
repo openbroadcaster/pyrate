@@ -3,7 +3,7 @@ layout: default
 title: index
 ---
 
-Support Page and User Guide for setting up Raspberry Pyrate Radio Box
+User Guide for Raspberry Pyrate Radio Box
 =====================================================================
 
 * TOC
@@ -16,6 +16,8 @@ Guide for setting up Raspberry Pyrate Radio Box
 # PyrateRadio Setup
 
 Step by Step guide for running PyrateRadio Box on Raspberry Pi 
+
+[email](mailto:pyrate@openbroadcaster.com) for support questions
 
 ## Getting Ready
 
