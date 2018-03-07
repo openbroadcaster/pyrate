@@ -11,13 +11,11 @@ User Guide for Raspberry Pyrate Radio Box
 
 <a name="PyrateRadio"></a>
 
-Guide for setting up Raspberry Pyrate Radio Box
+[email](mailto:pyrate@openbroadcaster.com) for support questions or submit a trouble ticket to right
 
 # PyrateRadio Setup
 
 Step by Step guide for running PyrateRadio Box on Raspberry Pi 
-
-[email](mailto:pyrate@openbroadcaster.com) for support questions
 
 ## Getting Ready
 
