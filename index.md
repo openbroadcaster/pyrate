@@ -8,12 +8,6 @@ title: index
 
 <a name="PyrateRadio"></a>
 
----
-#layout: default
-#title: PyrateRadio
-#permalink: /PyrateRadio
----
-
 Guide for setting up Pyrate Radio Box
 
 * TOC
