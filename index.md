@@ -3,7 +3,7 @@ layout: default
 title: index
 ---
 
-Support page and User Guide for setting up Raspberry Pyrate Radio Box
+Support Page and User Guide for setting up Raspberry Pyrate Radio Box
 =====================================================================
 
 * TOC
