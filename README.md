@@ -1,9 +1,17 @@
-#openbroadcaster.com
+# openbroadcaster.com
+
+Image for Raspberry Pi documentation
+
+
+
+
+
+## Install
 
 [![GitHub license](https://img.shields.io/github/license/openbroadcaster/openbroadcaster.github.io.svg?style=flat-square)](https://github.com/openbroadcaster/openbroadcaster.github.io/blob/master/LICENSE)
 <img src="img/FOC.png" alt="OpenBroadcaster" width="280" align="right">
 
-This repository holds the source code to the [OpenBroadcaster PyrateRadio](http://support.openbroadcaster.com/PyrateRadio/) website, a [Jekyll](http://jekyllrb.com/)-powered site hosted for free on [GitHub Pages](https://pages.github.com/).
+This repository holds the source code to the [Open Broadcaster Pyrate Radio](http://support.openbroadcaster.com/pyrate-radio/) website, a [Jekyll](http://jekyllrb.com/)-powered site hosted for free on [GitHub Pages](https://pages.github.com/).
 
 ### Development Notes
 
@@ -23,5 +31,19 @@ After cloning this repository, run:
 
 ### Screenshot
 
-
 <img src="https://cdn.rawgit.com/jekyll/brand/master/jekyll-logo-light-transparent.png" alt="Made with Jekyll" width="140" align="right" /> <img src="http://bower.io/img/bower-logo.svg" alt="Made with Bower" height="70" align="right">
+
+OpenBroadcaster 
+https://openbroadcaster.com/
+
+Copyright 2012-2018 OpenBroadcaster, Inc.
+
+Licensed under GNU AGPLv3. See COPYING.
+
+Support Site
+
+http://support.openbroadcaster.com/pyrate-radio/
+
+
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/openbroadcaster/pyrate-radio.svg?columns=all)](https://waffle.io/openbroadcaster/pyrate-radio)
+
