@@ -3,6 +3,9 @@ layout: default
 title: index
 ---
 
+* TOC
+{:toc}
+
 User Guide for Raspberry Pyrate Radio Box
 =====================================================================
 
