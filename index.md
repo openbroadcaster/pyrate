@@ -1,6 +1,7 @@
 ---
 layout: default
-title: index
+title: Getting_Started
+permalink: /Pyrate-Radio
 ---
 
 User Guide for Raspberry Pyrate Radio Box
