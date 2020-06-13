@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting_Started
+title: pyrate-radio
 permalink: /pyrate-radio
 ---
 
