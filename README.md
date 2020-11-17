@@ -36,14 +36,13 @@ After cloning this repository, run:
 OpenBroadcaster 
 https://openbroadcaster.com/
 
-Copyright 2012-2018 OpenBroadcaster, Inc.
+Copyright 2012-2020 OpenBroadcaster, Inc.
 
 Licensed under GNU AGPLv3. See COPYING.
 
 Support Site
 
-http://support.openbroadcaster.com/pyrate-radio/
+https://support.openbroadcaster.com/pyrate-radio/
 
 
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/openbroadcaster/pyrate-radio.svg?columns=all)](https://waffle.io/openbroadcaster/pyrate-radio)
 
