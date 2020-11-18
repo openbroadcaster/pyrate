@@ -6,13 +6,13 @@ title: index
 * TOC
 {:toc}
 
-User Guide for Raspberry Pyrate Radio Box
+User Guide for Raspberry Pi Pyrate Software
 =====================================================================
 
 * TOC
 {:toc}
 
-<a name="PyrateRadio"></a>
+<a name="Pyrate"></a>
 
 [email](mailto:pyrate@openbroadcaster.com) for support questions or submit a trouble ticket to right
 
@@ -20,7 +20,7 @@ Check the [changelog](https://openbroadcaster.com/changelog) for new features.
 
 # PyrateRadio Setup
 
-Step by Step guide for running PyrateRadio Box on Raspberry Pi
+Step by Step guide for running Pyrate software on Raspberry Pi
 
 ## Disclaimer
 
