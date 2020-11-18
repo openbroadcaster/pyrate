@@ -18,7 +18,7 @@ User Guide for Raspberry Pi Pyrate Software
 
 Check the [changelog](https://openbroadcaster.com/changelog) for new features.
 
-# PyrateRadio Setup
+# Pyrate Setup
 
 Step by Step guide for running Pyrate software on Raspberry Pi
 
