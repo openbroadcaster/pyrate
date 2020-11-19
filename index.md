@@ -1,3 +1,5 @@
+![Pyrate 3](/img/pyrate3.png )
+
 ---
 layout: default
 title: index
@@ -5,8 +7,6 @@ title: index
 
 * TOC
 {:toc}
-
-![Pyrate 3](/img/pyrate3.png )
 
 User Guide for Raspberry Pi Pyrate Software
 =====================================================================
