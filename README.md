@@ -1,4 +1,4 @@
-![Pyrate 3](/pyrate/img/pyrate3.png ){: .logo}
+![Pyrate 3](/img/pyrate3.png ){: .logo}
 
 
 Pyrate Software Image for Raspberry Pi documentation
