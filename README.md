@@ -1,4 +1,8 @@
+![Pyrate 3](/pyrate/img/pyrate3.png ){: .logo}
+
+
 Pyrate Software Image for Raspberry Pi documentation
+
 
 [![GitHub license](https://img.shields.io/github/license/openbroadcaster/openbroadcaster.github.io.svg?style=flat-square)](https://github.com/openbroadcaster/openbroadcaster.github.io/blob/master/LICENSE)
 <img src="img/FOC.png" alt="OpenBroadcaster" width="280" align="right">
