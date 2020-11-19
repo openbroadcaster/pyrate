@@ -1,4 +1,4 @@
-[Pyrate 3](img/pyrate3.png )
+![Pyrate 3](img/pyrate3.png )
 
 ---
 layout: default
