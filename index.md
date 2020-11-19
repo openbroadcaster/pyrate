@@ -6,11 +6,10 @@ title: index
 * TOC
 {:toc}
 
+![Pyrate 3](/img/pyrate3.png )
+
 User Guide for Raspberry Pi Pyrate Software
 =====================================================================
-
-* TOC
-{:toc}
 
 <a name="Pyrate"></a>
 
