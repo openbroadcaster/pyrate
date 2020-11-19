@@ -1,5 +1,3 @@
-![Pyrate 3](img/pyrate3.png )
-
 ---
 layout: default
 title: index
@@ -8,10 +6,12 @@ title: index
 * TOC
 {:toc}
 
+<a name="Pyrate"></a>
+
 User Guide for Raspberry Pi Pyrate Software
 =====================================================================
 
-<a name="Pyrate"></a>
+![Pyrate 3](img/pyrate3.png )
 
 [email](mailto:pyrate@openbroadcaster.com) for support questions or submit a trouble ticket to right
 
