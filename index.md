@@ -5,16 +5,14 @@ title: index
 # Raspberry Pi Pyrate
 {:.no_toc}
 
-
-
 * TOC
 {:toc}
 
 <a name="Pyrate"></a>
 
-User Guide for Raspberry Pi Pyrate Software
-
 ![Pyrate 3](img/pyrate3.png )
+
+User Guide for Raspberry Pi Pyrate Software
 
 Check the [changelog](https://openbroadcaster.com/changelog) for new features.
 
@@ -22,7 +20,7 @@ Check the [changelog](https://openbroadcaster.com/changelog) for new features.
 
 Step by Step usere guide for running Pyrate software on Raspberry Pi
 
-## Disclaimer
+__Disclaimer
 
 \*\*\* Using this IMG is 100% at your own risk \*\*\*
 
@@ -44,11 +42,11 @@ You will need:
 - Step two: open etcher and write the image file to the SD card.
 - Step three: Attach a Monitor, Keyboard and Network cable. Pop in the SD card and boot the Pyrate Box.
 
-## First boot
+__First boot
 
 On fresh new install, give it a few minute for heartbeats and audio to appear. It is taking time to sync up. On first boot you may see some red error messages, on restart they should go away. See Debug mode in the status tab if errors persist.
 
-## Crypto Mining Malware
+__Crypto Mining Malware
 
 Raspberry Pi's are vulnerable to this kind of malware.  We have removed default user "pi" among other measures. What we have noticed, is compromised Pi's get ZMap and sshpass installed. Neither of these programs is required for our operation.
 
@@ -58,7 +56,7 @@ In dashboard, check for updates in player dashboard.
 First run will come up at a default login prompt. user = obsuser  pass = test1234.  
 Everything is now accessed through a browser and services will automatically restart when the unit is plugged in.
 
-## OB Media Server
+## Media Server
 
 Find Pyrate ip and access via a browser on a different machine as a regular web site.  Login screen will appear on port 80.   There are several sample accounts with different permissions already created
 
@@ -78,11 +76,11 @@ http://<IP_ADDRESS>:23233 or http://192.168.1.100:23233
 
 user = admin  pass = admin  (Displays a RED message to remind you to change)
 
-## Icecast Media Server
+## Icecast Streaming Server
 
 http://<IP_ADDRESS>:8000 or http://192.168.1.100:8000
 
-## Icecast Passwords
+__Icecast Passwords
 
 Edit the file directly in Terminal and change passwords.
 
@@ -93,7 +91,7 @@ Here are the default passwords that are already set in your image for testing.  
 ICECAST_ADMIN_PASS="1c3c4stP4ssw0rD"  to access the administration panel
 ICECAST_SOURCE_PASS="1c3c4stS0uRc3" to allow incoming streams to create a mount point
 
-## Terminal Mode
+__Terminal Mode
 
 All operation of both player and server can be run and accessed from terminal
 
@@ -113,7 +111,7 @@ Network card is enp1s0 or eth0. Look beside inet for your assigned IP Address ie
 
 2) login to your router and show DHCP tables of devices with auto IP address.  our Player device hostname is "raspberrypi" and its IP will be displayed
 
-## Set a static IP address
+__Set a static IP address
 
 Once you have setup and configured, you can optionally  or bind router to your MAC Address.
 
@@ -123,7 +121,7 @@ From terminal.
 
 "sudo nano /etc/network/interfaces"
 
-## Before
+__Before
 
 (Default for DHCP)
 
@@ -135,7 +133,7 @@ iface lo inet loopback
 allow-hotplug enp1s0
 iface enp1s0 inet dhcp
 
-## After
+__After
 
 Substituting your own IP, gateway and DNS
 
@@ -156,7 +154,7 @@ dns-nameservers 192.168.1.1,8.8.8.8
 
 Ctrl +X, Y (to save) Reboot machine
 
-## Sound Cards
+__Sound Cards
 
 Additional control of soundcard using Pulse is to go into Terminal and type "pulsemixer"
 
