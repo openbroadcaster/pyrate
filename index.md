@@ -2,6 +2,10 @@
 layout: default
 title: index
 ---
+# Raspberry Pi Pyrate
+{:.no_toc}
+
+
 
 * TOC
 {:toc}
@@ -9,24 +13,22 @@ title: index
 <a name="Pyrate"></a>
 
 User Guide for Raspberry Pi Pyrate Software
-=====================================================================
 
 ![Pyrate 3](img/pyrate3.png )
 
-[email](mailto:pyrate@openbroadcaster.com) for support questions or submit a trouble ticket to right
-
 Check the [changelog](https://openbroadcaster.com/changelog) for new features.
 
-# Pyrate Setup
+## Pyrate Setup
 
-Step by Step guide for running Pyrate software on Raspberry Pi
+Step by Step usere guide for running Pyrate software on Raspberry Pi
 
 ## Disclaimer
 
 \*\*\* Using this IMG is 100% at your own risk \*\*\*
 
 This is an advanced experimenters machine, with the potential to generate a lot of bandwidth traffic when exposed to external internet and publish content to public mount points including LIVE radio and TV transmitters.  Default Administrative passwords are all enabled.  Recommend separating and isolating this behind a firewall until you are 100% confident what it is doing.
-You should also change the passwords from the defaults.
+
+__Always change the passwords from the defaults.
 
 ## Getting Ready
 
@@ -67,8 +69,6 @@ user = basic        pass = test1234
 user = manager  pass = test1234
 
 To update the server from a browser while logged in as real admin user <IP_OF_SERVER>/updates
-
-
 
 ## Player DashBoard
 
@@ -179,8 +179,6 @@ There is no local mail server configured. This prevents "forgot password" and "c
 - Not tested at this time for anything other than generating an audio stream to Icecast server.
 
 We'll include and expand on above in future releases.  If you have anything to share please contact us or pyrate@openbroadcaster.com
-
-
 
 # Tips and Tricks
 
