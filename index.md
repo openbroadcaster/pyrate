@@ -20,13 +20,13 @@ Check the [changelog](https://openbroadcaster.com/changelog) for new features.
 
 Step by Step usere guide for running Pyrate software on Raspberry Pi
 
-__Disclaimer
+__Disclaimer__
 
 \*\*\* Using this IMG is 100% at your own risk \*\*\*
 
 This is an advanced experimenters machine, with the potential to generate a lot of bandwidth traffic when exposed to external internet and publish content to public mount points including LIVE radio and TV transmitters.  Default Administrative passwords are all enabled.  Recommend separating and isolating this behind a firewall until you are 100% confident what it is doing.
 
-__Always change the passwords from the defaults.
+__Always change the passwords from the defaults__
 
 ## Getting Ready
 
@@ -42,11 +42,11 @@ You will need:
 - Step two: open etcher and write the image file to the SD card.
 - Step three: Attach a Monitor, Keyboard and Network cable. Pop in the SD card and boot the Pyrate Box.
 
-__First boot
+__First boot__
 
 On fresh new install, give it a few minute for heartbeats and audio to appear. It is taking time to sync up. On first boot you may see some red error messages, on restart they should go away. See Debug mode in the status tab if errors persist.
 
-__Crypto Mining Malware
+__Crypto Mining Malware__
 
 Raspberry Pi's are vulnerable to this kind of malware.  We have removed default user "pi" among other measures. What we have noticed, is compromised Pi's get ZMap and sshpass installed. Neither of these programs is required for our operation.
 
@@ -80,7 +80,7 @@ user = admin  pass = admin  (Displays a RED message to remind you to change)
 
 http://<IP_ADDRESS>:8000 or http://192.168.1.100:8000
 
-__Icecast Passwords
+__Icecast Passwords__
 
 Edit the file directly in Terminal and change passwords.
 
@@ -91,7 +91,7 @@ Here are the default passwords that are already set in your image for testing.  
 ICECAST_ADMIN_PASS="1c3c4stP4ssw0rD"  to access the administration panel
 ICECAST_SOURCE_PASS="1c3c4stS0uRc3" to allow incoming streams to create a mount point
 
-__Terminal Mode
+__Terminal Mode__
 
 All operation of both player and server can be run and accessed from terminal
 
@@ -111,7 +111,7 @@ Network card is enp1s0 or eth0. Look beside inet for your assigned IP Address ie
 
 2) login to your router and show DHCP tables of devices with auto IP address.  our Player device hostname is "raspberrypi" and its IP will be displayed
 
-__Set a static IP address
+__Set a static IP address__
 
 Once you have setup and configured, you can optionally  or bind router to your MAC Address.
 
@@ -121,7 +121,7 @@ From terminal.
 
 "sudo nano /etc/network/interfaces"
 
-__Before
+__Before__
 
 (Default for DHCP)
 
@@ -133,7 +133,7 @@ iface lo inet loopback
 allow-hotplug enp1s0
 iface enp1s0 inet dhcp
 
-__After
+__After__
 
 Substituting your own IP, gateway and DNS
 
@@ -154,7 +154,7 @@ dns-nameservers 192.168.1.1,8.8.8.8
 
 Ctrl +X, Y (to save) Reboot machine
 
-__Sound Cards
+__Sound Cards__
 
 Additional control of soundcard using Pulse is to go into Terminal and type "pulsemixer"
 
