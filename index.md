@@ -16,7 +16,7 @@ title: index
 
 User Guide for Raspberry Pi Pyrate Software
 
-Check the [changelog](https://www.openbroadcaster.com/resource/changelog) for new features.
+Check the [changelog](https://www.openbroadcaster.com/resource/change-log/) for new features.
 
 ## Pyrate Setup
 
