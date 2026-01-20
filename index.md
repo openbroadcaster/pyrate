@@ -16,7 +16,7 @@ title: index
 
 User Guide for Raspberry Pi Pyrate Software
 
-Check the [changelog](https://openbroadcaster.com/changelog) for new features.
+Check the [changelog](https://www.openbroadcaster.com/resource/changelog) for new features.
 
 ## Pyrate Setup
 
@@ -166,7 +166,7 @@ Additional control of soundcard using Pulse is to go into Terminal and type "pul
 
 ## Limitations
 
-There is no local mail server configured. This prevents "forgot password" and "create new account" (on the welcome screen) from working since they require confirmation emails. You can create accounts using admin -> user management once logged in instead. Instructions to setup and configuring SMTP relay settings for [GSuite](https://support.google.com/a/answer/2956491?hl=en)
+There is no local mail server configured. This prevents "forgot password" and "create new account" (on the welcome screen) from working since they require confirmation emails. You can create accounts using admin -> user management once logged in instead.
 
 - Allowed Senders should be: "Only addresses in my domains"
 
@@ -182,8 +182,4 @@ There is no local mail server configured. This prevents "forgot password" and "c
 
 - Not tested at this time for anything other than generating an audio stream to Icecast server.
 
-We'll include and expand on above in future releases.  If you have anything to share please contact us or pyrate@openbroadcaster.com
-
-# Tips and Tricks
-
-Have a tip to share? Send you stories by [email](mailto:pyrate@openbroadcaster.com)
+We'll include and expand on above in future releases.
